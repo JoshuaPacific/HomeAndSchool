@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "tid": "1",
+      "title": "Mrs. Wan Fang Zhou ？",
+      "thumbnail": "adv.jpg",
+      "advertiser": "CL ET",
+      "read_profit": "8",
+      "type": "0",
+      "status": "1",
+      "created": "1452139945"
+    },
+    {
+      "tid": "2",
+      "title": "Mr. JasperGuo？",
+      "thumbnail": "adv.jpg",
+      "advertiser": "CL ET",
+      "status": "0",
+      "type": "1",
+      "read_profit": "5",
+      "created": "1452094126"
+    }
+  ]
+}
